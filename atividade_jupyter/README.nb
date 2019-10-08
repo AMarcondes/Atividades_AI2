@@ -1,0 +1,5 @@
+Olá!
+
+Estas são minhas atividades do curso de IA.
+
+Tema das atividades: Jupyter.
